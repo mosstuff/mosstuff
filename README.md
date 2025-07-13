@@ -1,5 +1,5 @@
 # Hi, I'm Mo!
-## (he/they/she)
+<sub>(he/they/she)</sub>
 
 - 🔭 I’m currently working on a weird timeslot system
 - 🌱 I’m currently learning python and go
