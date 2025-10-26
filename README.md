@@ -1,4 +1,4 @@
-# Hi, I'm Mo! (he/they/she)
+# Hi, I'm Mio! (he/they/she)
 
 - 🔭 I’m currently working on a weird timeslot system
 - 🌱 I’m currently learning python and go
